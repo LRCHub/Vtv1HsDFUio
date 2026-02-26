@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "この歌にのって",
+  "base_artist": "the pullovers",
+  "createdAt": "2026-02-26T02:49:23.968430Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "この歌にのって",
+      "artist": "the pullovers",
+      "has_synced": false,
+      "path": "select/pl_01_この歌にのって_the_pullovers.txt"
+    }
+  ]
+}
